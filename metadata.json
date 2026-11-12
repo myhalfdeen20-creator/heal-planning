@@ -1,0 +1,8 @@
+{
+  "name": "Heal Planning  — Integrated Event, Vendor & Guest Management Platform",
+  "description": "All-in-one event management software featuring real-time calendar synchronization, analytics dashboard, integrated vendor CRM, guest list & RSVP tracking, interactive floorplan designer, and proposals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
